@@ -11,6 +11,7 @@ Friday,Saturday
 ## Hacking
 
 [Infos zu den Bezeichnungen](https://github.com/daemonforge/Dayz-HackingMod/wiki#starttime)
+
 | Type              | StartTime  | HackingTime  | Batteries  | TabletDamage  | ChanceOfInterrupt  |
 |------------------ |----------- |------------- |----------- |-------------- |------------------- |
 | tent              | 10s        | 60s          | 1          | 15            | 0.00005            |
@@ -23,6 +24,7 @@ Friday,Saturday
 
 Homemade BreachingCharge: DamageToObjects 2\
 Heavy BreachingCharge: DamageToObjects: 4
+
 | Object                                | Health  |
 |-------------------------------------- |-------- |
 | Door-Hologram                         | 2       |
