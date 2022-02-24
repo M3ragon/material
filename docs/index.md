@@ -7,3 +7,10 @@ Hier bekommst du alle wichtigen Infos zum Server "ZnS - Never Love Your Loot!"
 * [Territories](territories)
 * [Basebuilding](https://www.youtube.com/watch?v=sJ12PxSZo7s)
 * [Discord](https://discord.zuckerundsalz.xyz)
+
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
