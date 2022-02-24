@@ -4,8 +4,8 @@ Basic Info for Raiding
 
 ## RaidSchedule
 
-15:00 - 0:00\
-3PM - 0:00AM\
+15:00 - 0:00
+3PM - 0:00AM
 Friday,Saturday
 
 ## Hacking
@@ -22,7 +22,7 @@ Friday,Saturday
 
 ## Bomb Damage
 
-Homemade BreachingCharge: DamageToObjects 2\
+Homemade BreachingCharge: DamageToObjects 2
 Heavy BreachingCharge: DamageToObjects: 4
 
 | Object                                | Health  |
