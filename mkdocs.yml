@@ -1,3 +1,11 @@
-site_name: My Docs
+site_name: A3Survival
+#site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
+    - RulesDE: rules_de.md
+    - RulesEN: rules_en.md
+    - Base Building: baseraiding.md
+    - Territories: territories.md
 theme:
   name: material
