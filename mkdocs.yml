@@ -5,6 +5,7 @@ nav:
     - A3Survival:
       - wiki_a3s/index.md
       - Weapons: wiki_a3s/weapons.md
+      - Consumables: wiki_a3s/consumables.md
     - DayZServer: 
       - dayzserver/index.md
       - Regeln (DE): dayzserver/rules_de.md
@@ -15,12 +16,15 @@ nav:
       - TestSite/index.md
       - nav: TestSite/index.md
     - About: about.md
+
 theme:
   name: material
   features:
     - content.code.annotate
     - content.tabs.link
     - navigation.indexes
+  logo: asset/img/logo.svg
+  favicon: asset/img/logo.svg
   icon:
     admonition:
       note: octicons/tag-16
@@ -95,3 +99,6 @@ extra_javascript:
 
 extra_css:
   - asset/stylesheets/extra.css
+
+extra:
+  homepage: https://m3ragon.github.io/material/
