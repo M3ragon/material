@@ -96,4 +96,5 @@ The HTML specification is maintained by the W3C.
 
 *[specification]: specification2
 *[maintained]: maintained2
+
 --8<-- "includes/abbreviations.md"
