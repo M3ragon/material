@@ -3,8 +3,10 @@ site_name: A3Survival
 nav:
     - Home: index.md
     - About: about.md
-    - RulesDE: rules_de.md
-    - RulesEN: rules_en.md
+    - Rules: 
+      - rules/index.md
+      - Regeln (DE): rules/rules_de.md
+      - Rules (EN): rules/rules_en.md
     - Base Building: baseraiding.md
     - Territories: territories.md
 theme:
@@ -12,6 +14,7 @@ theme:
   features:
     - content.code.annotate
     - content.tabs.link
+    - navigation.indexes
   icon:
     admonition:
       note: octicons/tag-16
