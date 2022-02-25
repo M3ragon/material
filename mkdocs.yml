@@ -46,10 +46,6 @@ plugins:
       minify_css: true
       htmlmin_opts:
           remove_comments: true
-      js_files:
-        - javascript/tablesort.js
-      css_files:
-        - stylesheets/extra.css
 
 markdown_extensions:
   - tables
