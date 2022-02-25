@@ -47,7 +47,7 @@ plugins:
       htmlmin_opts:
           remove_comments: true
       js_files:
-        - docs/javascript/tablesort.js
+        - javascript/tablesort.js
       css_files:
         - stylesheets/extra.css
 
