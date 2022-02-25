@@ -1,16 +1,19 @@
-site_name: ZnS - Zucker und Salz
+site_name: Site of M3ragon
 site_url: https://m3ragon.github.io/material/
 nav:
     - Home: index.md
+    - A3Survival:
+      - wiki_a3s/index.md
+      - Weapons: wiki_a3s/weapons.md
     - DayZServer: 
-      - web/server/index.md
-      - Regeln (DE): web/server/rules_de.md
-      - Rules (EN): web/server/rules_en.md
-      - Base Building: web/server/baseraiding.md
-      - Territories: web/server/territories.md
+      - dayzserver/index.md
+      - Regeln (DE): dayzserver/rules_de.md
+      - Rules (EN): dayzserver/rules_en.md
+      - Base Building: dayzserver/baseraiding.md
+      - Territories: dayzserver/territories.md
     - Test:
-      - web/test/index.md
-      - nav: web/test/index.md
+      - TestSite/index.md
+      - nav: TestSite/index.md
     - About: about.md
 theme:
   name: material
@@ -88,7 +91,7 @@ markdown_extensions:
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-  - .asset/javascripts/tablesort.js
+  - asset/javascripts/tablesort.js
 
 extra_css:
-  - .asset/stylesheets/extra.css
+  - asset/stylesheets/extra.css

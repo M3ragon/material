@@ -2,7 +2,7 @@
 
 ## Build a Flag
 
-Link: [Flag Pole](https://dayz.fandom.com/wiki/Flag_Pole) \
+Link: [Flag Pole](https://dayz.fandom.com/wiki/Flag_Pole)  
 Short:
 
 === "Our Server"
@@ -21,5 +21,5 @@ Short:
 
 ## Add a Member
 
-The Owner/Placer of the Flag has the ability to add Member to the Territories. Go to you Flag, scroll through the options. You will find an option "Add Member". If you click it, other people can accept the Membership on the flag!.\
+The Owner/Placer of the Flag has the ability to add Member to the Territories. Go to you Flag, scroll through the options. You will find an option "Add Member". If you click it, other people can accept the Membership on the flag!.  
 Only Members can build inside of a territory.
