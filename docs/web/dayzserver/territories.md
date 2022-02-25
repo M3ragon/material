@@ -5,12 +5,19 @@
 Link: [Flag Pole](https://dayz.fandom.com/wiki/Flag_Pole) \
 Short:
 
-- place a "Flag Pole Kit"
-- Add 1 Log to it and place it with a Sledgehammer
-- Add 5 Stones and build it with a Shovel
-- Add 3 more Logs, 10 nails, Metal Wire and Rope, build it with a smal hammer or hatchet
-- Add your Flag
-- have you Base!
+=== "Our Server"
+
+    - place a "Flag Pole Kit"
+    - finish
+
+=== "Vanilla"
+
+    - place a "Flag Pole Kit"
+    - Add 1 Log to it and place it with a Sledgehammer
+    - Add 5 Stones and build it with a Shovel
+    - Add 3 more Logs, 10 nails, Metal Wire and Rope, build it with a smal hammer or hatchet
+    - Add your Flag
+    - have you Base!
 
 ## Add a Member
 
