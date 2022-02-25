@@ -53,7 +53,6 @@ def bubble_sort(items):
 1.  :man_raising_hand: I'm an annotation!
 2.  :woman_raising_hand: I'm an annotation as well!
 
-
 !!! success "Phasellus posuere in sem ut cursus"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
