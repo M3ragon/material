@@ -23,6 +23,7 @@ theme:
     - content.code.annotate
     - content.tabs.link
     - navigation.indexes
+    - navigation.top
   logo: asset/img/logo.svg
   favicon: asset/img/logo.svg
   icon:
