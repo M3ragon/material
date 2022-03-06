@@ -2,6 +2,12 @@ site_name: Site of M3ragon
 site_url: https://m3ragon.github.io/material/
 nav:
     - Home: index.md
+    - Kitchen:
+      - cooking/index.md
+      - Appetizers: 
+        - cooking/appetizers/index.md
+        - Räucherlach mit Ciabatta: cooking/appetizers/SmokedSalmonWithCiabatta.md
+        - Feta-Quiche mit Spinat: cooking/appetizers/FetaquicheWithSpinachBaconAndGarlic.md
     - A3Survival:
       - wiki_a3s/index.md
       - Weapons: wiki_a3s/weapons.md
