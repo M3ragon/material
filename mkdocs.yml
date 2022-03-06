@@ -28,7 +28,7 @@ theme:
   features:
     - content.code.annotate
     - content.tabs.link
-    - navigation.indexes
+    - navigation.tabs
     - navigation.top
   logo: asset/img/logo.svg
   favicon: asset/img/logo.svg
