@@ -77,8 +77,8 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
     * [ ] Praesent sed risus massa
 - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
 
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa#only-light)
-![Image title](https://dummyimage.com/600x400/21222c/d5d7e2#only-dark)
+![Image title](https://wiki.arma3survival.com/lib/exe/fetch.php?w=400&tok=e677f2&media=img:weapons:rhs_weap_ak103_ca.png#only-light)
+![Image title](https://wiki.arma3survival.com/lib/exe/fetch.php?w=400&tok=35d3ee&media=img:weapons:gear_416d10_ca.png#only-dark)
 
 The HTML specification is maintained by the W3C.
 
