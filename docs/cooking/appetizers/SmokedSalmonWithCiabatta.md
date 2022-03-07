@@ -3,11 +3,15 @@
 Räucherlachs mit Limonen-Schmand auf Ciabatta, an Cherry-Tomatensalat.  
 Eine leichte, sommerliche Vorspeise  
 
+![SmokedSalmon1](../../asset/img/food/SmakedSalmon_01.jpg){ width="200", loading=lazy, align=right }
+![SmokedSalmon2](../../asset/img/food/SmakedSalmon_02.jpg){ width="200", loading=lazy, align=right }
+
 ## Zutaten
 
 - Räucherlachs
 - Lollo-Rosso
 - Ciabatta
+- Friese Salat
 - Limonen-Schmand
     - 200g Schmand
     - 1 Limette (Saft & Abrieb)
