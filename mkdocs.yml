@@ -8,6 +8,9 @@ nav:
         - cooking/appetizers/index.md
         - Räucherlachs mit Ciabatta: cooking/appetizers/SmokedSalmonWithCiabatta.md
         - Feta-Quiche mit Spinat: cooking/appetizers/FetaquicheWithSpinachBaconAndGarlic.md
+      - Diverse:
+        - cooking/etc/index.md
+        - Basilikum-Pesto: cooking/etc/BasilikumPesto.md
     - A3Survival:
       - wiki_a3s/index.md
       - Weapons: wiki_a3s/weapons.md
