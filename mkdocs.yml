@@ -8,6 +8,10 @@ nav:
         - cooking/appetizers/index.md
         - Räucherlachs mit Ciabatta: cooking/appetizers/SmokedSalmonWithCiabatta.md
         - Feta-Quiche mit Spinat: cooking/appetizers/FetaquicheWithSpinachBaconAndGarlic.md
+      - Desserts:
+        - cooking/dessert/index.md
+        - Maronen Tiramisu: cooking/dessert/MaronenTiramisu.md
+        - Schokoladen Soufflé: cooking/dessert/SchokoladenSouffleMitTonkabohne.md
       - Diverse:
         - cooking/etc/index.md
         - Basilikum-Pesto: cooking/etc/BasilikumPesto.md
