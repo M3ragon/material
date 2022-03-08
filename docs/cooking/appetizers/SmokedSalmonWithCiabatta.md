@@ -21,7 +21,7 @@ Eine leichte, sommerliche Vorspeise
     - Kokusblütenzucker
 - Cherrytomaten Salat
     - Cherrytomaten
-    - [Basilikum-Pesto](../../../cooking/etc/BasilikumPesto)
+    - [Basilikum-Pesto](../../cooking/etc/BasilikumPesto.md)
     - Parmesan (gehobelt)
 
 ## Zubereitung
