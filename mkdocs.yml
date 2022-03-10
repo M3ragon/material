@@ -1,34 +1,43 @@
-site_name: Site of M3ragon
+site_name: M3ragon`s Küche
 site_url: https://m3ragon.github.io/material/
 nav:
     - Home: index.md
+    - Blog: blog.md
     - Kitchen:
       - cooking/index.md
-      - Appetizers: 
+      - Vorspeisen: 
         - cooking/appetizers/index.md
         - Räucherlachs mit Ciabatta: cooking/appetizers/SmokedSalmonWithCiabatta.md
         - Feta-Quiche mit Spinat: cooking/appetizers/FetaquicheWithSpinachBaconAndGarlic.md
+      - Hauptgericht:
+        - cooking/main_course/index.md
+        - PLACEHOLDER: cooking/dessert/MaronenTiramisu.md
       - Desserts:
         - cooking/dessert/index.md
         - Maronen Tiramisu: cooking/dessert/MaronenTiramisu.md
         - Schokoladen Soufflé: cooking/dessert/SchokoladenSouffleMitTonkabohne.md
+      - Beilagen:
+        - cooking/supplement/index.md
+        - Gratin: cooking/supplement/gratin.md
       - Diverse:
         - cooking/etc/index.md
         - Basilikum-Pesto: cooking/etc/BasilikumPesto.md
-    - A3Survival:
-      - wiki_a3s/index.md
-      - Weapons: wiki_a3s/weapons.md
-      - Consumables: wiki_a3s/consumables.md
-    - DayZServer: 
-      - dayzserver/index.md
-      - Regeln (DE): dayzserver/rules_de.md
-      - Rules (EN): dayzserver/rules_en.md
-      - Base Building: dayzserver/baseraiding.md
-      - Territories: dayzserver/territories.md
-    - Test:
-      - TestSite/index.md
-      - nav: TestSite/index.md
     - About: about.md
+    - more:
+      - more/index.md
+      - A3Survival:
+        - more/wiki_a3s/index.md
+        - Weapons: more/wiki_a3s/weapons.md
+        - Consumables: more/wiki_a3s/consumables.md
+      - DayZServer: 
+        - more/dayzserver/index.md
+        - Regeln (DE): more/dayzserver/rules_de.md
+        - Rules (EN): more/dayzserver/rules_en.md
+        - Base Building: more/dayzserver/baseraiding.md
+        - Territories: more/dayzserver/territories.md
+      - Test:
+        - more/TestSite/index.md
+        - nav: more/TestSite/index.md
 
 theme:
   name: material
