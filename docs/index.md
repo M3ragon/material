@@ -8,3 +8,5 @@ hide:
 
 Hier findet du eine [Rezeptsammlung](cooking/index.md), sowie einen [Food-Blog](blog.md)  
 weitere Infos folgen.
+
+.
