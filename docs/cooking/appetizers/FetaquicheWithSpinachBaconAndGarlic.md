@@ -12,6 +12,7 @@
 - 400ml Sahne
 - 5 Eier
 - 200g Feta
+- 200g Bacon oder Kochschinken
 
 ## Zubereitung
 
