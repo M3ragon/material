@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Food-blog
 
 ## 07.03.2022
