@@ -38,9 +38,7 @@ nav:
         - Rules (EN): more/dayzserver/rules_en.md
         - Base Building: more/dayzserver/baseraiding.md
         - Territories: more/dayzserver/territories.md
-      - Test:
-        - more/TestSite/index.md
-        - nav: more/TestSite/index.md
+      - Test: more/TestSite/index.md
 
 theme:
   name: material
