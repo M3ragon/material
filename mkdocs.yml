@@ -24,6 +24,7 @@ nav:
       - Diverse:
         - cooking/etc/index.md
         - Basilikum-Pesto: cooking/etc/BasilikumPesto.md
+        - Coffee Crumble: cooking/etc/CoffeeCrumble.md
     - About: about.md
     - more:
       - more/index.md
