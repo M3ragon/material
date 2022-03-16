@@ -5,8 +5,8 @@ Eine leichte, sommerliche Vorspeise
 
 ??? info "Bilder"
 
-    ![SmokedSalmon1](../../asset/img/food/SmakedSalmon_01.jpg){ width="200", loading=lazy, align=left }
-    ![SmokedSalmon2](../../asset/img/food/SmakedSalmon_02.jpg){ width="200", loading=lazy, align=left }
+    ![SmokedSalmon1](../../assets/img/food/SmakedSalmon_01.jpg){ width="200", loading=lazy, align=left }
+    ![SmokedSalmon2](../../assets/img/food/SmakedSalmon_02.jpg){ width="200", loading=lazy, align=left }
 
 ## Zutaten
 

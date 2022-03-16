@@ -48,8 +48,8 @@ theme:
     - content.tabs.link
     - navigation.tabs
     - navigation.top
-  logo: asset/img/logo.svg
-  favicon: asset/img/logo.svg
+  logo: assets/img/logo.svg
+  favicon: assets/img/logo.svg
   icon:
     repo: fontawesome/brands/git-alt 
     admonition:
@@ -126,11 +126,12 @@ repo_url: https://github.com/M3ragon/material
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-  - asset/javascripts/tablesort.js
-  - asset/javascripts/consent.js
+  - assets/javascripts/tablesort.js
+  - assets/javascripts/consent.js
+  - assets/javascripts/lazyload.js
 
 extra_css:
-  - asset/stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 extra:
   homepage: https://m3ragon.github.io/material/

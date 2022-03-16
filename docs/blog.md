@@ -11,7 +11,7 @@ hide:
     Räucherlachs auf Ciabatta mit Zitronen-Schmand an Tomaten- und Gurkensalat, dazu Friese.  
     [:material-book-edit: Rezept](cooking/appetizers/SmokedSalmonWithCiabatta.md){ .md-button }
 
-![Image title](https://nx3254.your-storageshare.de/s/gJe6FPNaM3Xaqd5/preview){ width="300" }
+![Image title](https://nx3254.your-storageshare.de/s/gJe6FPNaM3Xaqd5/preview){ width="300", loading=lazy }
 
 ---
 
@@ -22,7 +22,7 @@ hide:
     Ein herbes Tiramisu mit Kaffeenote und einer leichten süße von Maronen.  
     [:material-book-edit: Rezept](cooking/dessert/MaronenTiramisu.md){ .md-button }
 
-![Image title](https://nx3254.your-storageshare.de/s/pEBpX4Yd77gMjfT/preview){ width="300" }
+![Image title](https://nx3254.your-storageshare.de/s/pEBpX4Yd77gMjfT/preview){ width="300", loading=lazy }
 
 ---
 
@@ -34,7 +34,7 @@ hide:
     Dazu einen nussige Tonkabohnen Sauce.  
     [:material-book-edit: Rezept](cooking/dessert/SchokoladenSouffleMitTonkabohne.md){ .md-button }
 
-![Image title](https://nx3254.your-storageshare.de/s/y2JRzkrB4T2ZtbG/preview){ width="300" }
+![Image title](https://nx3254.your-storageshare.de/s/y2JRzkrB4T2ZtbG/preview){ width="300", loading=lazy }
 
 ---
 
@@ -46,6 +46,6 @@ hide:
     Hier wurde Blätterteig, Feta und auch Ei zu einer einfachen, aber leckeren Quiche vereinigt.  
     [:material-book-edit: Rezept](cooking/appetizers/FetaquicheWithSpinachBaconAndGarlic.md){ .md-button }
 
-![Image title](https://nx3254.your-storageshare.de/s/to9WN9zYHMMxqf5/preview){ width="300" }
+![Image title](https://nx3254.your-storageshare.de/s/to9WN9zYHMMxqf5/preview){ width="300", loading=lazy }
 
 --8<-- "includes/inline_appetizers.md"
