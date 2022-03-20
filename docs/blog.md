@@ -6,7 +6,7 @@ hide:
 
 ## 20.03.2022
 
-!!! abstract inline "Rhabarber-Himbeer Variation mit Schlupfer"
+!!! abstract "Rhabarber-Himbeer Variation mit Schlupfer"
 
     Vier verschiedenen, süße Rhabarber-Desserts vereint auf einem Teller.  
     Eis, Sülze, Schlupfer und eine Sahne, auf einem Teller, dazu eine Honig/-Krokant Hippe.  
@@ -18,7 +18,7 @@ hide:
 
 ## 19.03.2022
 
-!!! abstract inline "Rhabarber-Joghurtschaum mit Haselnusscrumble"
+!!! abstract "Rhabarber-Joghurtschaum mit Haselnusscrumble"
 
     Ein frischer Rhabarber-Joghurtschaum, als zweierlei, mit Haselnusscrumble an Himbeersahne  
     Dazu leckere Beeren der Session  
@@ -28,7 +28,7 @@ hide:
 
 ---
 
-!!! abstract inline "Kabeljau mit Kräuterkruste auf Paprikasauce"
+!!! abstract "Kabeljau mit Kräuterkruste auf Paprikasauce"
 
     Saftig frischer Kabeljau mit einer Kräuterkruste, aus 3 verschiedenen Kräutern.  
     Dazu ein knacker Salat, angemacht mit Balsamico-Dressing.  
@@ -41,7 +41,7 @@ hide:
 
 ## 07.03.2022
 
-!!! abstract inline "Räucherlachs mit Ciabatta"
+!!! abstract "Räucherlachs mit Ciabatta"
 
     Räucherlachs auf Ciabatta mit Zitronen-Schmand an Tomaten- und Gurkensalat, dazu Friese.  
     [:material-book-edit: Rezept](cooking/appetizers/SmokedSalmonWithCiabatta.md){ .md-button }
@@ -52,7 +52,7 @@ hide:
 
 ## 23.02.2022
 
-!!! abstract inline "Maronen Tiramisu mit Salz-Caramel Eis"
+!!! abstract "Maronen Tiramisu mit Salz-Caramel Eis"
 
     Ein herbes Tiramisu mit Kaffeenote und einer leichten süße von Maronen.  
     [:material-book-edit: Rezept](cooking/dessert/MaronenTiramisu.md){ .md-button }
@@ -63,7 +63,7 @@ hide:
 
 ## 14.02.2022
 
-!!! abstract inline "Schokoladen Soufflé von der Valrhona-Schokolade, mit Tonkabohnen Sauce"
+!!! abstract "Schokoladen Soufflé von der Valrhona-Schokolade, mit Tonkabohnen Sauce"
 
     Ein süßes Schokoladen Soufflé. Hergestellt mit Valrhona-Schokolade.  
     Dazu einen nussige Tonkabohnen Sauce.  
@@ -75,7 +75,7 @@ hide:
 
 ## 04.02.2022
 
-!!! abstract inline "Feta-Quiche mit Spinat, Speck und Knoblauch"
+!!! abstract "Feta-Quiche mit Spinat, Speck und Knoblauch"
 
     Eine simple Quiche, der anderen Art.  
     Hier wurde Blätterteig, Feta und auch Ei zu einer einfachen, aber leckeren Quiche vereinigt.  
