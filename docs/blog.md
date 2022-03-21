@@ -32,7 +32,7 @@ hide:
 
     Saftig frischer Kabeljau mit einer Kräuterkruste, aus 3 verschiedenen Kräutern.  
     Dazu ein knacker Salat, angemacht mit Balsamico-Dressing.  
-    Anbei ein "Topinanbur-Törtchen"
+    Anbei ein "Topinanbur-Törtchen"  
     [:material-book-edit: Rezept (Folgt)](){ .md-button }
 
 ![Image title](https://nx3254.your-storageshare.de/s/AKqipiA7E68iyJd/preview){ width="300", loading=lazy }
