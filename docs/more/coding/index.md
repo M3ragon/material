@@ -4,6 +4,7 @@
 
 Compare 2 Files  
 [StackExchange](https://unix.stackexchange.com/questions/408644/remove-lines-in-file-1-from-file-2)  
+
 ```sh
 awk 'NR==FNR {a[$1];next}!($1 in a ) {print $1}' file2 file1
 ```
@@ -11,6 +12,7 @@ awk 'NR==FNR {a[$1];next}!($1 in a ) {print $1}' file2 file1
 ## Powershell
 
 Symbolik-Links  
+
 ```ps1
 New-Item -ItemType Junction -Path $Destination -Target $Target
 ```
@@ -18,14 +20,19 @@ New-Item -ItemType Junction -Path $Destination -Target $Target
 ### Winget
 
 Export all Programms:  
+
 ```ps1
 winget export -o "C:\programme_winget_export.json"
 ```
+
 Install/Import Programms:  
+
 ```ps1
 winget import -i "C:\programme_winget_export.json"
 ```
+
 Upgrade all Programms:  
+
 ```ps1
 winget upgrade --all
 ```
