@@ -4,18 +4,31 @@
 
 Compare 2 Files  
 [StackExchange](https://unix.stackexchange.com/questions/408644/remove-lines-in-file-1-from-file-2)  
-`awk 'NR==FNR {a[$1];next}!($1 in a ) {print $1}' file2 file1`
+```sh
+awk 'NR==FNR {a[$1];next}!($1 in a ) {print $1}' file2 file1
+```
 
 ## Powershell
 
 Symbolik-Links  
-`New-Item -ItemType Junction -Path $Destination -Target $Target`
+```ps1
+New-Item -ItemType Junction -Path $Destination -Target $Target
+```
 
 ### Winget
 
-Export all Programms: `winget export -o "C:\programme_winget_export.json"`  
-Install/Import Programms: `winget import -i "C:\programme_winget_export.json"`
-Upgrade all Programms: `winget upgrade --all`
+Export all Programms:  
+```ps1
+winget export -o "C:\programme_winget_export.json"
+```
+Install/Import Programms:  
+```ps1
+winget import -i "C:\programme_winget_export.json"
+```
+Upgrade all Programms:  
+```ps1
+winget upgrade --all
+```
 
 ---
 
