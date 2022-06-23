@@ -40,6 +40,7 @@ nav:
         - Rules (EN): more/dayzserver/rules_en.md
         - Base Building: more/dayzserver/baseraiding.md
         - Territories: more/dayzserver/territories.md
+      - Coding: more/coding/index.md
       - Test: more/TestSite/index.md
 
 theme:
