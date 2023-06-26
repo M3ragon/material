@@ -67,29 +67,31 @@ Authoritative source on Microsoft’s TechNet and Windows Server Activation Guid
 | Windows 7 Enterprise N | YDRBP-3D83W-TY26F-D46B2-XCKRJ                |
 | Windows 7 Enterprise E | C29WB-22CC8-VJ326-GHFJW-H9DH4                |
 
-
 ##### Windows Server 2022
+
 | Betriebssystem Edition           | KMS Client Setup Key                          |
 |----------------------------------|-----------------------------------------------|
 | Windows Server 2022 Datacenter   | WX4NM-KYWYW-QJJR4-XV3QB-6VM33                 |
 | Windows Server 2022 Standard     | VDYBN-27WPP-V4HQT-9VMD4-VMK7H                 |
 
-Windows Server 2019
+##### Windows Server 2019
+
 | Betriebssystem Edition           | KMS Client Setup Key                          |
 |----------------------------------|-----------------------------------------------|
 | Windows Server 2019 Datacenter   | WMDGN-G9PQG-XVVXX-R3X43-63DFG                 |
 | Windows Server 2019 Standard     | N69G4-B89J2-4G8F4-WWYCC-J464C                 |
 | Windows Server 2019 Essentials   | WVDHN-86M7X-466P6-VHXV7-YY726                 |
 
-Windows Server 2016
+##### Windows Server 2016
+
 | Betriebssystem Edition           | KMS Client Setup Key                          |
 |----------------------------------|-----------------------------------------------|
 | Windows Server 2016 Datacenter   | CB7KF-BWN84-R7R2Y-793K2-8XDDG                 |
 | Windows Server 2016 Standard     | WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY                 |
 | Windows Server 2016 Essentials   | JCKRF-N37P4-C2D82-9YXRT-4M63B                 |
 
-
 ##### Windows Server 2012
+
 | Betriebssystem Edition                    | KMS Client Setup Key                          |
 |-------------------------------------------|-----------------------------------------------|
 | Windows Server 2012                       | BN3D2-R7TKB-3YPBD-8DRP2-27GG4                 |
@@ -104,8 +106,8 @@ Windows Server 2016
 | Windows Server 2012 R2 Datacenter         | W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9                 |
 | Windows Server 2012 R2 Essentials         | KNC87-3J2TX-XB4WP-VCPJV-M4FWM                 |
 
-
 ##### Windows Server 2008
+
 | Betriebssystem Edition                            | KMS Client Setup Key                          |
 |---------------------------------------------------|-----------------------------------------------|
 | Windows Server 2008 Web                           | WYR28-R7TFJ-3X2YQ-YCY4H-M249D                 |
@@ -124,8 +126,8 @@ Windows Server 2016
 | Windows Server 2008 R2 Datacenter                  | 74YFP-3QFB3-KQT8W-PMXWJ-7M648                 |
 | Windows Server 2008 R2 für Itanium-basierte Systeme | GT63C-RJFQ3-4GMB6-BRFB9-CB83V                 |
 
-
 ##### Office LTSC 2021
+
 | Product                           | GVLK                                      |
 |-----------------------------------|-------------------------------------------|
 | Office LTSC Professional Plus 2021 | FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH             |
@@ -142,8 +144,8 @@ Windows Server 2016
 | Skype for Business LTSC 2021      | HWCXN-K3WBT-WJBKY-R8BD9-XK29P             |
 | Word LTSC 2021                    | TN8H9-M34D3-Y64V9-TR72V-X79KV             |
 
-
 ##### Office 2019
+
 | Product                        | GVLK                                      |
 |--------------------------------|-------------------------------------------|
 | Office Professional Plus 2019 | NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP             |
